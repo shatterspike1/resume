@@ -3,9 +3,11 @@ table.u-full-width
   thead
     tr
       th Name
-      th Experience
+      th Time
+      th Education
   tbody
   each education in contents['education.json'].metadata     
     tr
       td= education.name
       td= education.years + ' years'
+      td= education.spef

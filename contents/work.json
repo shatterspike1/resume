@@ -1,12 +1,5 @@
 [{
-    "description": "Land surveying in the Denver Metro area",
-    "image": "Chicago_surveyor.jpg",
-    "start": "May, 2006",
-    "end" : "June, 2011"
-},
-{
-    "description": "Programmer Analyst (C# Windows Applications)",
-    "image": "QuestIntegrity.png",
-    "start": "August, 2011",
-    "end": "present"
+    "description": "Google Script call to API for Google Docs",
+    "start": "December, 2014",
+    "end" : "January, 2015"
 }]

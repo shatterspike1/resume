@@ -1,11 +1,14 @@
 h3 Work Experiences
-each item in contents['work.json'].metadata
-  h4
-    small=item.start
-    |  - 
-    small=item.end
-  div.row
-    div.col-md-3
-      img(src='images/' + item.image)
-    div.col-md-9
-      p= item.description
+
+table.u-full-width
+  thead
+    tr
+      th Start Date
+      th End Date
+      th Description
+  tbody
+  each item in contents['work.json'].metadata
+    tr
+      td= item.start
+      td= item.end
+      td= item.description

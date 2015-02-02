@@ -4,8 +4,8 @@ table.u-full-width
   thead
     tr
       th Project Name
-      th Language
-      th Link
+      th Language(s)
+      th Link to Repository
   tbody
   each proj in contents['portfolio.json'].metadata
     tr
@@ -13,8 +13,3 @@ table.u-full-width
       td=proj.language
       td
         a(href=proj.url) Link
-
-each proj in contents['portfolio.json'].metadata
-  if proj.pic
-    center
-        img(src=proj.pic)

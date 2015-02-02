@@ -1,11 +1,10 @@
 [{
-	"skill": "Dynamic Web Development",
-	"experience": "Over 4 years experience using PHP+MySql along with other languages to build dynamic and unique web pages"
+	"skill": "Basic Unity3D Proficiency",
+	"experience": "Experience scripting in C# and Javascript as well as basic familiarity with tools"
 },{
-	"skill": "Database Creation",
-	"experience": "Developed numerous database systems and implemented them succesfully"
+	"skill": "Procedural Generation Algorithm Creation",
+	"experience": "Designed and helped to implement random dungeon generation algorithm"
 },{
-	"skill": "Linux development",
-	"experience": "Over 4 years using Linux on Virtual and Native systems"
-
+	"skill": "Basic Proficiency with C, C++, Python 3, Java, Scala, C#, and Javascript",
+	"experience": "Have some experience creating programs with each language in a Windows Environment"
 }]

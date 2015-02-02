@@ -1,12 +1,5 @@
 [{
 	"honor": "Dean's List",
-	"when": "Spring 2014"
-},
-{
-	"honor": "Dean's List",
-	"when": "Fall 2014"
-},
-{
-	"honor": "Awesomest of the Month",
-	"when": "November 2014"
+	"when": "Fall 2013 and Spring 2014",
+    "where": "University of Colorado Boulder"
 }]

@@ -1,7 +1,9 @@
 [{
-    "name": "Community College of Aurora",
-    "years": 1
+    "name": "Red Rocks Community College",
+    "years": 2,
+    "spef": "General Education in Preparation for Transfer"
 }, {
     "name": "CU Boulder",
-    "years": 5
+    "years": 3,
+    "spef": "Working on BS in Computer Science"
 }]
